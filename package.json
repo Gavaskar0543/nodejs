@@ -41,6 +41,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gavaskar",
-   "type" : "module",
+  
   "license": "ISC"
 }
